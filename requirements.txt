@@ -1,0 +1,11 @@
+transformers==4.42.3
+pyarrow==18.1.0
+scikit-learn==1.5.2
+einops==0.8.0
+matplotlib==3.9.3
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+tqdm==4.63.0
+sktime==0.34.1
+torch==2.5.1
