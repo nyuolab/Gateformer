@@ -14,7 +14,7 @@ We evaluate Gateformer against competitive baseline models on widely recognized 
 <img src="./figures/benchmark.jpg" alt="" align=center />
 </p>
 
-###Visualization
+### Visualization
 <p align="center">
 <img src="./figures/visual_1.jpg" alt="" align=center />
 </p>
@@ -25,10 +25,10 @@ Our proposed framework seamlessly integrates with Transformer-based and LLM-base
 <img src="./figures/perf_boost.jpg" alt="" align=center />
 </p>
 
-##Visualization
+### Visualization
 ∗ denotes models integrated with our framework.
 <p align="center">
-<img src="./figures/visaul_2.jpg" alt="" align=center />
+<img src="./figures/visual_2.jpg" alt="" align=center />
 </p>
 
 ## Usage
